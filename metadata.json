@@ -1,0 +1,7 @@
+{
+  "name": "AI 作文批改器",
+  "description": "温馨的AI作文批改助手，一键OCR识别手写文字，提供闪光点、魔法修改、金句百宝箱及老师总评。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
